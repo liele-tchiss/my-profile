@@ -1,0 +1,100 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: helvetica;
+  font-weight: lighter;
+  font-size: 20px
+ }
+ h1 {
+ 	color: #986D8E;
+ 	font-family: 'Playfair Display', serif;
+ 	font-weight: 500;
+ }
+#Lièle {
+
+	border-radius: 40%
+	
+}
+ 
+ p {
+ 	font-style: italic;
+ 
+ }
+ h2 {
+ 	color: #87A8A4;
+ 	font-size: 25px
+ }
+a {
+	color: #CC9B6D;
+}
+
+/*Custom design with class */
+.container {
+	width: 700px;
+    margin: 10px auto;
+}
+
+@media (max-width: 500px) {
+  .container {
+    width: 400px;
+  }
+}
+
+@media (max-width: 500px) {
+
+
+  .container {
+    width: 400px;
+
+  }
+}
+
+
+.card-white1 {
+    background: white;
+    padding: 60px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px rgb(0 255 173 / 20%);
+    border-radius: 8px;
+
+}
+.card-white2{
+    background: white;
+    padding: 60px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px rgb(255 0 188 / 18%);
+    border-radius: 8px;
+
+}
+.card-white3 {
+    background: white;
+    padding: 60px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px #007cfb47;
+    border-radius: 8px;
+}
+.card-white4 {
+    background: white;
+    padding: 60px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px #ff8d0047;
+    border-radius: 8px;
+}
+.card-white5 {
+    background: white;
+    padding: 60px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px #9000fd36;
+}
+
+
+
+
+
+
+
+
+
+
+
+
